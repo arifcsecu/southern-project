@@ -1,6 +1,8 @@
 <template>
-    <div>
-        <h1>This is Home</h1>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus alias sapiente ea rerum sequi aspernatur ipsum nobis. Possimus, voluptates commodi adipisci pariatur blanditiis sapiente. Unde corrupti est quasi vel neque!</p>
-    </div>
+  <div class="container mx-auto px-4 py-10">
+    <h2 class="text-3xl font-bold text-blue-600 mb-4">
+      Welcome to the Homepage!
+    </h2>
+    <p class="text-gray-700">This is your first Nuxt + TailwindCSS page.</p>
+  </div>
 </template>
