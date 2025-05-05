@@ -47,11 +47,10 @@
         />
         <div class="absolute inset-0 bg-black bg-opacity-50"></div>
 
-        <!-- Align to bottom -->
         <div
           class="relative z-10 h-full flex flex-col justify-end p-2 md:p-3 text-white"
         >
-          <span class="bg-[#F4796C] px-2 py-0.5 text-xs rounded w-fit mb-1"
+          <span class="bg-[#F4796C] px-2 py-1 text-xs rounded w-fit mb-1"
             >ভর্তি তথ্য</span
           >
           <p class="text-xs md:text-sm font-semibold leading-5">

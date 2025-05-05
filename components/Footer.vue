@@ -3,7 +3,7 @@
     class="bg-[#081524] text-white text-[16px] pt-10 pb-4 border-t border-gray-700"
   >
     <div
-      class="container mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-8 pb-8"
+      class="container mx-auto px-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 pb-8"
     >
       <!-- Logo & Description -->
       <div>
@@ -18,6 +18,7 @@
         </p>
       </div>
 
+      <!-- Company Links (1) -->
       <div>
         <h2 class="text-white font-semibold text-lg mb-3 relative inline-block">
           Company
@@ -36,7 +37,7 @@
       <!-- Company Links (2) -->
       <div>
         <h2 class="text-white font-semibold text-lg mb-3 relative inline-block">
-          Company
+          Resources
           <span
             class="absolute left-0 -bottom-1 w-6 h-[4px] bg-[#F4796C] rotate-[0deg]"
           ></span>
@@ -67,7 +68,7 @@
     </div>
 
     <div
-      class="container mx-auto px-4 mt-4 text-gray-500 text-[16px] flex flex-col md:flex-row justify-between items-center gap-2"
+      class="container mx-auto px-4 mt-4 text-gray-500 text-[14px] flex flex-col md:flex-row justify-between items-center gap-2 text-center"
     >
       <p>Privacy Policy & Terms • Site Credits</p>
       <p>© 2025 All Rights Reserved</p>
