@@ -1,10 +1,10 @@
 <template>
-  <div>
+  <div class="min-h-screen flex flex-col">
     <Header1 />
     <Header2 />
     <Header3 />
     <Navbar />
-    <main class="container mx-auto py-6">
+    <main class="container mx-auto py-6 flex-grow">
       <NuxtPage />
     </main>
     <Footer />
