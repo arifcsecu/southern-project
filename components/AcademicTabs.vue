@@ -42,6 +42,9 @@ const tabs = [
     'Result',
     'Public University',
     'Private University',
+    'Admission',
+    'Scholarship',
+    'Academic Calendar'
 ]
 </script>
 
